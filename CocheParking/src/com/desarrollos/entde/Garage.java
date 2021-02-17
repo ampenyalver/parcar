@@ -1,9 +1,11 @@
 package com.desarrollos.entde;
 
 public class Garage{
-    
+    /**
+     * La llamada a este método pinta el garage.
+     */
     public void printGarage() 
     {
-        system.out.print("|*]");
+        System.out.print("|*]");
     }
 }
